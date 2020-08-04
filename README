@@ -1,1 +1,16 @@
 These files make up the necessary files to boot an Optiplex 5040 SFF into MacOS Catalina 10.15.5.
+
+The Spec of this machine is 
+
+Dell OptiPlex 5040 sff
+Intel i5-6500(Skylake)
+Intel HD530 Graphics(Configured in headless mode)
+NVidia GT730 Graphics(Dell OEM Low profile model)
+Dell D315-ES 315W power supply(swapped in to replace stock 180W model.  It physically fits and has the right connectors, but you have to be creative screwing it in)
+
+
+What works:
+Graphics, WiFi, Power Management, iMessage, Sleep
+
+What Doesnt work:  Apple TV+ (wont work without an AMD card)
+
